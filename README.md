@@ -3,7 +3,7 @@
 Welcome! This is a fast-track, hands-on crash course to get you up and running with Java in just 8 days. Designed for beginners and self-taught coders looking for structure.
 
 ## 📅 Course Outline
- **Day 1:** Java Core & OOP (Foundation)
+**Day 1:** Java Core & OOP (Foundation)
 Java syntax, variables, data types
 
 Control flow (if, switch), loops (for, while)
@@ -18,7 +18,7 @@ Inheritance, polymorphism, encapsulation, abstraction
 
 Hands-on: Basic class models (e.g., Car, Student) 
 
-- **Day 2:**  Day 2: Java Advanced Concepts
+**Day 2:**  Day 2: Java Advanced Concepts
 Exception handling (try-catch-finally, custom exceptions)
 
 Java Collections: ArrayList, HashMap, HashSet
