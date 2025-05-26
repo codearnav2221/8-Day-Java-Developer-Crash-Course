@@ -30,7 +30,8 @@ File I/O with File, BufferedReader, FileWriter
 Hands-on: Mini project (e.g., Library system using collections)
 
 
-**Day 3:** Multithreading & JVM
+```**Day 3:** Multithreading & JVM
+
 Thread creation (Thread, Runnable)
 
 Synchronization and concurrency basics
@@ -39,7 +40,7 @@ JVM architecture: Heap, stack, GC basics
 
 Class loading and performance tuning intro
 
-```Hands-on: Simple multithreaded downloader or counter```
+Hands-on: Simple multithreaded downloader or counter```
 
 - **Day 4:** Collections Framework
 - **Day 5:** Exception Handling
