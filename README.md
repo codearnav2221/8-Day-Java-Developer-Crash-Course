@@ -19,7 +19,7 @@ Inheritance, polymorphism, encapsulation, abstraction
 Hands-on: Basic class models (e.g., Car, Student)
 
 **Day 2:**  Day 2: Java Advanced Concepts
-Exception handling (try-catch-finally, custom exceptions)
+''' Exception handling (try-catch-finally, custom exceptions)
 
 Java Collections: ArrayList, HashMap, HashSet
 
@@ -27,10 +27,10 @@ Generics
 
 File I/O with File, BufferedReader, FileWriter
 
-Hands-on: Mini project (e.g., Library system using collections)
+Hands-on: Mini project (e.g., Library system using collections) ```
 
 <pre> **Day 3:** Multithreading & JVM 
-```-Thread creation (Thread, Runnable)
+``` Thread creation (Thread, Runnable)
 
 Synchronization and concurrency basics
 
