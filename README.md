@@ -41,7 +41,22 @@ Class loading and performance tuning intro
 
 Hands-on: Simple multithreaded downloader or counter ``` </pre>
 
- **Day 4:** Collections Framework
+ <pre> **Day 4:**  Build Tools & Git
+Maven:
+
+```POM.xml, dependencies, plugins
+
+Gradle basics (optional)
+
+Git basics:
+
+Init, clone, add, commit, push, pull
+
+GitHub usage
+
+Hands-on: Setup a Maven Java project and push to GitHub ```</pre>
+
+
  **Day 5:** Exception Handling
  **Day 6:** File I/O Basics
  **Day 7:** Mini Projects
