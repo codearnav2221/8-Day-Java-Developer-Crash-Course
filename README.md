@@ -57,10 +57,10 @@ GitHub usage
 Hands-on: Setup a Maven Java project and push to GitHub ```</pre>
 
 
- **Day 5:** Exception Handling
+ ```**Day 5:** Exception Handling
  **Day 6:** File I/O Basics
  **Day 7:** Mini Projects
- **Day 8:** Review & Next Steps
+ **Day 8:** Review & Next Steps```
 
 ## 👨‍💻 Ideal For
  New coders learning Java
