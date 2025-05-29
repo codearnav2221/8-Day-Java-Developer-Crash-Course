@@ -57,7 +57,16 @@ GitHub usage
 Hands-on: Setup a Maven Java project and push to GitHub ```</pre>
 
 
- ```**Day 5:** Exception Handling
+ <pre>**Day 5:** Spring Boot Essentials
+```Introduction to Spring and Spring Boot
+
+Annotations: @SpringBootApplication, @RestController, @Service, @Autowired
+
+Creating REST APIs with Spring Boot
+
+Spring Boot DevTools and Actuator
+
+Hands-on: Build a REST API (e.g., Todo App or Student CRUD) ```</pre>
  **Day 6:** File I/O Basics
  **Day 7:** Mini Projects
  **Day 8:** Review & Next Steps```
