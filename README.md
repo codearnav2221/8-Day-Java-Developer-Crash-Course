@@ -67,7 +67,7 @@ Creating REST APIs with Spring Boot
 Spring Boot DevTools and Actuator
 
 Hands-on: Build a REST API (e.g., Todo App or Student CRUD) ```</pre>
- **Day 6:** File I/O Basics
+ ```**Day 6:** File I/O Basics
  **Day 7:** Mini Projects
  **Day 8:** Review & Next Steps```
 
