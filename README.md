@@ -78,8 +78,8 @@ REST endpoints:
 Add, get, update, delete employees
 
 Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.```</pre>
- **Day 7:** Mini Projects
- **Day 8:** Review & Next Steps```
+```**Day 7:** Mini Projects
+**Day 8:** Review & Next Steps```
 
 ## 👨‍💻 Ideal For
  New coders learning Java
