@@ -4,7 +4,7 @@ Welcome! This is a fast-track, hands-on crash course to get you up and running w
 
 ## 📅 Course Outline
 <pre> **Day 1:** Java Core & OOP (Foundation)
-```Java syntax, variables, data types
+Java syntax, variables, data types
 
 Control flow (if, switch), loops (for, while)
 
@@ -16,7 +16,7 @@ Classes, objects, methods
 
 Inheritance, polymorphism, encapsulation, abstraction
 
-Hands-on: Basic class models (e.g., Car, Student)``` </pre>
+Hands-on: Basic class models (e.g., Car, Student)</pre>
 
 <pre>**Day 2:**  Day 2: Java Advanced Concepts
 
