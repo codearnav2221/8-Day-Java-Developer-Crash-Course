@@ -39,7 +39,7 @@ JVM architecture: Heap, stack, GC basics
 
 Class loading and performance tuning intro
 
-Hands-on: Simple multithreaded downloader or counter ``` </pre>
+Hands-on: Simple multithreaded downloader or counter  </pre>
 
  <pre> **Day 4:**  Build Tools & Git
 Maven:
