@@ -78,7 +78,19 @@ REST endpoints:
 Add, get, update, delete employees
 
 Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.```</pre>
-```**Day 7:** Mini Projects
+<pre>**Day 7:** Testing + Security + Docker
+```🛠 Project: Secure API with Spring Security
+
+Add basic authentication (username/password)
+
+Write unit tests using JUnit + Mockito
+
+Dockerize the app:
+
+Add Dockerfile
+
+Build and run the container```</pre>
+```
 **Day 8:** Review & Next Steps```
 
 ## 👨‍💻 Ideal For
