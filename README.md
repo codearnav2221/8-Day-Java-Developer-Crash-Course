@@ -79,7 +79,7 @@ Add, get, update, delete employees
 
 Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.```</pre>
 <pre>**Day 7:** Testing + Security + Docker
-```🛠 Project: Secure API with Spring Security
+🛠 Project: Secure API with Spring Security
 
 Add basic authentication (username/password)
 
@@ -89,7 +89,7 @@ Dockerize the app:
 
 Add Dockerfile
 
-Build and run the container```</pre>
+Build and run the container</pre>
 ```
 **Day 8:** Review & Next Steps```
 
