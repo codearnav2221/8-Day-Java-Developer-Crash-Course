@@ -31,7 +31,7 @@ File I/O with File, BufferedReader, FileWriter
 Hands-on: Mini project (e.g., Library system using collections)</pre>
 
 <pre> **Day 3:** Multithreading & JVM 
-``` Thread creation (Thread, Runnable)
+Thread creation (Thread, Runnable)
 
 Synchronization and concurrency basics
 
@@ -44,7 +44,7 @@ Hands-on: Simple multithreaded downloader or counter  </pre>
  <pre> **Day 4:**  Build Tools & Git
 Maven:
 
-```POM.xml, dependencies, plugins
+POM.xml, dependencies, plugins
 
 Gradle basics (optional)
 
@@ -54,7 +54,7 @@ Init, clone, add, commit, push, pull
 
 GitHub usage
 
-Hands-on: Setup a Maven Java project and push to GitHub ```</pre>
+Hands-on: Setup a Maven Java project and push to GitHub </pre>
 
 
  <pre>**Day 5:** Spring Boot Essentials
