@@ -58,7 +58,7 @@ Hands-on: Setup a Maven Java project and push to GitHub </pre>
 
 
  <pre>**Day 5:** Spring Boot Essentials
-```Introduction to Spring and Spring Boot
+Introduction to Spring and Spring Boot
 
 Annotations: @SpringBootApplication, @RestController, @Service, @Autowired
 
