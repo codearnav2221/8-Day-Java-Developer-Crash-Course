@@ -69,7 +69,7 @@ Spring Boot DevTools and Actuator
 Hands-on: Build a REST API (e.g., Todo App or Student CRUD) ```</pre>
 
 <pre>**Day 6:** Spring Boot + MySQL with Hibernate
-```🛠 Project: Employee Management System
+🛠 Project: Employee Management System
 
 Integrate MySQL using Spring Data JPA
 
@@ -77,7 +77,7 @@ REST endpoints:
 
 Add, get, update, delete employees
 
-Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.```</pre>
+Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.</pre>
 <pre>**Day 7:** Testing + Security + Docker
 🛠 Project: Secure API with Spring Security
 
