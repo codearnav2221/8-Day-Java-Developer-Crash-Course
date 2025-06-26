@@ -66,7 +66,7 @@ Creating REST APIs with Spring Boot
 
 Spring Boot DevTools and Actuator
 
-Hands-on: Build a REST API (e.g., Todo App or Student CRUD) ```</pre>
+Hands-on: Build a REST API (e.g., Todo App or Student CRUD)</pre>
 
 <pre>**Day 6:** Spring Boot + MySQL with Hibernate
 🛠 Project: Employee Management System
