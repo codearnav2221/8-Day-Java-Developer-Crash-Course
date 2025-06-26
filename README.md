@@ -93,19 +93,12 @@ Build and run the container</pre>
 
 <pre>**Day 8:** Final Mini Project + Review
 Build a full-stack Java backend:
-
 REST API with Spring Boot
-
 MySQL/Postgres with Hibernate
-
 Basic auth with Spring Security
-
 Test with JUnit
-
 Dockerize and deploy
-
 Review key concepts
-
 Practice 10–15 common Java interview questions </pre>
 
 ## 👨‍💻 Ideal For
