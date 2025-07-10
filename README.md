@@ -92,6 +92,7 @@ Add Dockerfile
 Build and run the container</pre>
 
 <pre>**Day 8:** Final Mini Project + Review
+ 
 Build a full-stack Java backend:
 REST API with Spring Boot
 MySQL/Postgres with Hibernate
