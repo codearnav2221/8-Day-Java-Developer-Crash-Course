@@ -74,7 +74,6 @@ Hands-on: Build a REST API (e.g., Todo App or Student CRUD)</pre>
 Integrate MySQL using Spring Data JPA
 
 REST endpoints:
-
 Add, get, update, delete employees
 
 Use Hibernate annotations: @Entity, @Id, @GeneratedValue, etc.</pre>
