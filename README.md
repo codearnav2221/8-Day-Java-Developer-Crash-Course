@@ -101,7 +101,7 @@ Dockerize and deploy
 Review key concepts
 Practice 10–15 common Java interview questions </pre>
 
-## 👨‍💻 Ideal For
+###👨‍💻 Ideal For
  New coders learning Java
  Bootcamp students
- Developers brushing up Java basics
+ Developers brushing up Java basics###
